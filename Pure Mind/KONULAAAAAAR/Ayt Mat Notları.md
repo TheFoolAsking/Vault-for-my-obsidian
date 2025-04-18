@@ -1,0 +1,15 @@
+ - [x] Polinomlar  [[Polınomlar]]
+- [x] İkinci dereceden denklemler [[İkinci dereceden denklemler]]
+- [x] Permutasyon
+- [x] Kombinasyon
+- [x] Binom [[Bınom]]
+- [x] Olasılık
+- [x] Karmaşık sayılar [[Karmaşık sayılar]]
+- [x] 2. dereceden eşitsizlikler [[2. derece eşitsizlik]] 
+- [x] Parabol [[Parabol]] 
+- [x] Trigonometri [[Trygonometer]]
+- [x] Logaritma [[Logaritma]]
+- [x] Diziler [[Diziler ve Filimler]]
+- [x] Limit [[Limit]]
+- [x] Türev [[Türev]]
+- [x] İntegral [[İntegral]]
